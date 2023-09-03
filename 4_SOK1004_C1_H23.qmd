@@ -1,12 +1,3 @@
----
-title: "4_SOK1004_C1_H23"
-format:
-  pdf:
-    toc: true
-    number-sections: true
-    colorlinks: true
----
-
 
 Denne oppgaven er laget av Even S. Hvinden og oppdatert av Derek J. Clark. Sistnevnte er ansvarlig for eventuelle feil og mangler.
 
